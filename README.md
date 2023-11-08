@@ -8,15 +8,15 @@ The dataset consists in a collection of audio file in a WAV format. Each record 
 attributes. The following is a short description for each of them.
 
 
-* path: the path of the audio file.
-* speakerId: the id of the speaker.
-* action: the type of action required through the intent.
-* object: the device involved by intent.
-* Self-reported fluency level: the speaking fluency of the speaker.
-* First Language spoken: the first language spoken by the speaker.
-* Current language used for work/school: the main language spoken by the speaker during daily activities.
-* gender: the gender of the speaker.
-* ageRange: the age range of the speaker.
+* *path*: the path of the audio file.
+* *speakerId*: the id of the speaker.
+* *action*: the type of action required through the intent.
+* *object*: the device involved by intent.
+* *Self-reported fluency level*: the speaking fluency of the speaker.
+* *First Language spoken*: the first language spoken by the speaker.
+* *Current language used for work/school*: the main language spoken by the speaker during daily activities.
+* *gender*: the gender of the speaker.
+* *ageRange*: the age range of the speaker.
 
 
 An intent is given by the combination of an action with an object, therefore the information in the two
